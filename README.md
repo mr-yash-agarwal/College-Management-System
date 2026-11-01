@@ -103,6 +103,3 @@ This project was built for learning. Before deploying it publicly, you should:
 
 Contributions are welcome. Fork the repo, create a feature branch and open a pull request.
 
-## 📄 License
-
-Add a license of your choice (for example MIT) before publishing.
